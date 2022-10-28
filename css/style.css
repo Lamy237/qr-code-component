@@ -51,7 +51,7 @@ main {
 }
 
 .component {
-    width: min(100% - 1.5625rem, 21.875rem);
+    width: min(100% - 2.25rem, 21.875rem);
     background-color: var(--WHITE);
     border-radius: 1.25rem;
     padding: 1rem 1rem 2rem;
